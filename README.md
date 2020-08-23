@@ -33,8 +33,6 @@ Now you can use Cmake!
 - Open Command Prompt, and go to EDGITOR's folder: `cd *EDGITOR_FOLDER_LOCATION*`
 - Then execute this command `cmake -B build -G "Visual Studio 16 2019"`
 - Open VS19 and set EDGITOR as StartUp Project
-- Add "opengl32.lib" and "glu32.lib" to the Linker
-- Move the Resources folder into the build folder when testing!
 
 ### macOS
 - Install Xcode and Cmake
